@@ -1,0 +1,89 @@
+*{
+  margin: 0;
+  padding: 0%;
+}
+
+body{ 
+  background-color: rgb(150, 210, 238);
+  text-align: center;
+}
+
+
+main{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  margin-top: 45px;
+}
+
+.menu_1 {
+  width: 20%;
+  background-color: rgb(187, 222, 247);
+  height: 530px;
+
+}
+
+.enl_1 {
+  width: 100%;
+  height: 90px;
+  background-color: aquamarine;
+  border: solid 1px;
+}
+
+.Ban_1 {
+  width: 100%;
+  height: 161px;
+  background-color: aquamarine;
+  border: solid 1px;
+}
+
+.area_c {
+  width: 45%;
+  background-color: rgb(187, 222, 247);
+  height: 530px;
+  margin-left: 5px;
+}
+
+.area_c1 {
+  width: 100%;
+  height: 260px;
+  background-color: aquamarine;
+  border: solid 1px;
+  background-image: url(../Imagenes/Duolingo-logo-500x500.webp);
+  background-size: 87px;
+}
+
+.area_c2 {
+  width: 100%;
+  height: 131px;
+  background-color: aquamarine;
+  border: solid 1px;
+}
+
+.area_c3 {
+  width: 100%;
+  height: 134px;
+  background-color: aquamarine;
+  border: solid 1px;
+}
+
+.Banner {
+  width: 35%;
+  background-color: rgb(187, 222, 247);
+  height: 530px;
+  margin-left: 5px;
+}
+
+.ban_2 {
+  width: 100%;
+  height: 263px;
+  background-color: aquamarine;
+  border: solid 1px;
+}
+
+.ban_3 {
+  width: 100%;
+  height: 264px;
+  background-color: aquamarine;
+  border: solid 1px;
+}
