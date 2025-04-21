@@ -1,0 +1,191 @@
+ *{
+    margin: 0;
+    padding: 0%;
+  }
+
+  body{ 
+    background-color: rgb(150, 210, 238);
+    text-align: center;
+  }
+
+  #container{
+    background-color: white;
+    border: 1px solid black;
+    width: 90%;
+    height: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
+  }
+
+  header {
+    width: 100%;
+    background-color: rgb(198, 211, 233);
+    border: solid 1px;
+    padding-bottom: 10px;
+  }
+  .nav_2{
+    width: 95%;
+    height: 100px;
+    background-color: rgb(249, 166, 252);
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 1px black;
+    margin-top: 10px;
+}
+
+.cont {
+  width: 40%;
+  background-color: rgb(187, 222, 247);
+  height: 455px;
+  margin-left: 5px;
+}
+
+.section_1 {
+  margin-top: 5px;
+}
+
+.nav_1 {
+  background-color: rgb(233, 175, 238);
+  height: 180px;
+  margin-left: 20px;
+  margin-right: 15px;
+  border: solid 1px black;
+  margin-top: 15px;
+}
+
+.aside_1 {
+  background-color: rgb(141, 209, 236);
+  height: 180px;
+  margin-left: 20px;
+  margin-right: 15px;
+  border: solid 1px black;
+  margin-top: 10px;
+}
+
+.conten {
+  background-color: rgb(187, 222, 247) ;
+  width: 58%;
+  height: 455px;
+  flex-direction: row;
+}
+
+.cosito{
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  border: solid 1px black;
+}
+
+main{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  margin-top: 15px;
+  gap: 1rem;
+}
+
+.art1{
+  width: 95%;
+  height: 100%;
+  margin: auto;
+  background-color: lightcyan;
+  padding-bottom: 5px;
+  margin-top: 10px;
+  border: solid 1px black;
+}
+
+.art1_hea{
+  width: 90%;
+  height: 35px;
+  margin: auto;
+  background-color: rgb(233, 173, 173);
+  margin-top: 12px;
+  margin-bottom: 10px;
+  border: solid 1px black;
+}
+
+.art1_contenedor{
+  width: auto;
+  height: 25px;
+  display: flex;
+  flex-direction: row;
+}
+
+.art1_div{
+  width: 50%;
+  height: 120%;
+  margin-left: 32px;
+  background-color: rgb(255, 255, 255);
+  border:  solid 1px black;
+}
+
+.art1_aside{
+  width: 50%;
+  height: 120%;
+  background-color: rgb(255, 255, 255);
+  border: solid 1px black;
+  margin-left: 5px;
+  margin-right: 32px;
+
+}
+
+.art2 {
+  width: 95%;
+  height: 100%;
+  margin: auto;
+  background-color: lightcyan;
+  margin-top: 20px;
+  padding-bottom: 10px;
+  border: solid 1px black;
+  
+}
+
+.cosito_2 {
+  width: 90%;
+  height: 28px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  border: solid 1px black;
+  background-color: lightblue;
+}
+
+.art2_div {
+  width: 90%;
+  height: 28px;
+  margin-left: 32px;
+  background-color: lightblue;
+  border:  solid 1px black;
+  margin-top: 10px;
+
+}
+
+.art2_p {
+  width: 90%;
+  height: 28px;
+  margin-left: 32px;
+  background-color: lightblue;
+  border:  solid 1px black;
+  margin-top: 10px;
+}
+
+.art3_foot {
+  width: 90%;
+  height: 28px;
+  margin-left: 32px;
+  background-color: lightblue;
+  border:  solid 1px black;
+  margin-top: 10px;
+}
+
+.footer_2 {
+  width: auto;
+  height: 30px;
+  background-color: lightblue;
+  border:  solid 1px black;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-top: 10px;
+}
