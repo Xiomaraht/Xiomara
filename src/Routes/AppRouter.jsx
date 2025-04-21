@@ -10,7 +10,6 @@ const AppRouter = () => {
     <Router>
       <Navbar /> 
       <Routes>
-        {/* Cambié la ruta raíz para que apunte al componente Home */}
         <Route path="/" element={<Home />} />
         {/* Aquí mantuve el LoginForm en la ruta '/login' */}
         <Route path="/login" element={<LoginForm />} />
