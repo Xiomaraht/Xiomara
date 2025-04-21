@@ -11,7 +11,6 @@ const AppRouter = () => {
       <Navbar /> 
       <Routes>
         <Route path="/" element={<Home />} />
-        {/* Aquí mantuve el LoginForm en la ruta '/login' */}
         <Route path="/login" element={<LoginForm />} />
         <Route path="/register" element={<RegisterForm />} />
         <Route path="/profile" element={<Profile />} />
