@@ -1,0 +1,33 @@
+.Perf_1 {
+    width: 250px;
+    background: #fff;
+    border-right: 1px solid #eee;
+    padding: 20px;
+}
+
+.Img_1 {
+    width: 100px;
+    height: 100px;
+    background: #ccc;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.Menu_1 {
+    list-style: none;
+    padding: 0;
+}
+
+.Menu_1 li {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.Menu_1 .Act_1 {
+    background: #000;
+    color: #fff;
+}
+
+.Menu_1 .Cerr_1 {
+    color: red;
+}

@@ -1,0 +1,80 @@
+.Mascota_1 {
+    padding: 2rem;
+}
+
+.Mascota_2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+.Bton_1 {
+    background-color: black;
+    color: white;
+    padding: 0.5rem, 1rem;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+
+}
+
+.List_1 {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.card_1 {
+    background: #fff;
+    padding: 1rem;
+    border-radius: 1rem;
+    width: 180px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.Img_1 {
+    width: 100%;
+    height: 100px;
+    background: #e5e5e5;
+    border-radius: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.nombre {
+    font-weight: bold;
+    margin: 0.25rem 0;
+}
+
+.detalle {
+    font-size: 0.85rem;
+    color: #555;
+}
+
+.botones {
+    margin-top: 0.5rem;
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+}
+
+.bton_1, 
+.bton_2 {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.75rem;
+    border: none;
+    border-radius: 0.3rem;
+    cursor: pointer;
+}
+
+.bton_1 {
+    background: #999;
+    color: white;
+}
+
+.bton_2 {
+    background: black;
+    color: white;
+}

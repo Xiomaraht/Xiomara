@@ -1,0 +1,43 @@
+.Info_1 {
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 1rem;
+    max-width: 600px;
+    margin: 0 auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.Info_1 h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+}
+
+.Perf_2 {
+    display: grid;
+    gap: 1rem;
+}
+
+.Form_2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.Form_2 label {
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.Form_2 input {
+    padding: 0.6rem 0.8rem;
+    border: 1px solid #ccc;
+    border-radius: 0.5rem;
+    font-size: 1rem
+}
+
+.Form_2 input:focus{
+    outline: none;
+    border-color: #000;
+    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.15);
+}
